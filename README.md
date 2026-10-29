@@ -36,7 +36,13 @@ Faced VT-x / virtualization error during VM start. Fixed by enabling Virtualizat
 
 \## Screenshots
 
-Will be added in screenshots folder.
+![VirtualBox Manager](screenshots/01-virtualbox-manager.png)
+
+![Kali Desktop](screenshots/02-kali-desktop.png)
+
+![Network Settings](screenshots/03--ork-settings.png)
+
+![IP Address Proof](screenshots/04-kali-ip-address.png)
 
 
 
@@ -44,3 +50,4 @@ Will be added in screenshots folder.
 
 \- NETWORKWALKS YouTube Project Video - Week 1
 
+<img width="953" height="500" alt="03-virtualbox-natnetwork-settings" src="https://github.com/user-attachments/assets/84e03361-4e01-457e-901c-5b1ec8a43ba2" />
